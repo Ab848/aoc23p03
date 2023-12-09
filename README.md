@@ -6,7 +6,7 @@ In order to find the missing part we need to add up the numbers representing the
 A number only represents a part if it is adjacent to a symbol (including diagonally)this excludes periods (.)
 
 ## Tools
-- Rust
+- Python
 - Vim
 
 ## Attribution
